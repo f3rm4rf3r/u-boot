@@ -113,7 +113,7 @@ static const struct rpi_model rpi_models_new_scheme[] = {
 	},
     [0xD] = {
 		"3 Model B+",
-		DTB_DIR "bcm2710-rpi-3-b-plus.dtb",
+		DTB_DIR "bcm2837-rpi-3-b-plus.dtb",
 		true,
 	},
 };
